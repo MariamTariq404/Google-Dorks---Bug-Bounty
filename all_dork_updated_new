@@ -1,0 +1,62 @@
+"security vulnerability" report
+"security issue" report
+"if you find a security issue" "reward"
+hall of fame vulnerability
+we encourage you to contact intext:vulnerability
+by emailing security@ intext:vulnerability
+eligible for a reward intext:vulnerability
+"if you believe you've found a security vulnerability" "reward"
+inurl:security "reward"
+responsible disclosure hall of fame
+intext:within business days vulnerability
+intext:"we take security very seriously"
+site:*.*.nl intext:security report reward
+vulnerability reporting policy
+"validity of a vulnerability will be judged at the sole discretion" vulnerability
+index of "responsible disclosure"
+inurl : /responsible-disclosure/ swag
+"submit vulnerability report"
+inurl"security report"
+inurl:/security ext:txt "contact"
+inurl:security "hall of fame"
+inurl:/.well-known/security ext:txt
+site:support.*.* intext:security report reward
+site:support.*.* intext:security report hall of fame
+responsible disclosure reward
+inurl : /responsible-disclosure/ hall of fame
+site:*.br responsible disclosure
+site:*.at responsible disclosure
+site:*.be responsible disclosure
+site:*.au responsible disclosure
+site:*.*.com intext:security report hall of fame
+intext:If you believe you have discovered a vulnerability
+"submission form" intext:vulnerability hall of fame
+site:*.*.de intext:vulnerability inurl:bounty
+intext:monetary inurl:responsible disclosure
+intext:Program Rules vulnerability "report"
+site:support.. intext:security report reward
+intext:security report monetary inurl:security
+intext:security report reward inurl:report
+site:security.. inurl: bounty
+site:..de inurl:bug inurl:bounty
+site:..fr inurl:bug inurl:bounty
+responsible disclosure reward r=h:UK
+inurl:responsible disclosure reward
+inurl:responsible disclosure bounty
+inurl:responsible disclosure swag
+site:..nl intext:responsible disclosure reward
+responsible disclosure reward r=h:eu
+inurl: /bug bounty
+inurl: / security
+inurl: security.txt
+intext: responsible disclosure
+inurl: /security ext:txt "contact"
+intext: "Responsible Investigation"
+intext: "Responsible Reporting"
+intext: "Responsible Investigation and Reporting"
+inurl:bug-bounty -bugcrowd -hackerone -techcrunch -portswigger
+If you believe you've found a security vulnerability
+
+
+
+
