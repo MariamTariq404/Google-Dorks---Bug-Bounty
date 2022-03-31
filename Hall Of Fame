@@ -1,0 +1,12 @@
+site:*.*.com intext:security report wall of fame
+site:*.*.com intext:security report wall of thanks 
+site:*.*.com intext:security report appreciation reward 
+hall of fame vulnerability
+responsible disclosure hall of fame
+inurl:security "hall of fame"
+site:support.*.* intext:security report hall of fame  
+inurl : /responsible-disclosure/ hall of fame                
+site:*.*.com intext:security report hall of fame                
+inurl:responsible disclosure hall of fame 
+site:*.*.com intext:security report thanks
+site:*.*.com intext:security report acknowledgement
